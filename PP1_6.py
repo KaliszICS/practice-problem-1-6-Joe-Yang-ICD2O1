@@ -33,3 +33,4 @@ def q4():
   num2 = float(input("Input a number: "))
   
   print (int(num1 * num2))
+
